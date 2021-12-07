@@ -1,0 +1,74 @@
+.header-pos{
+    margin-top: 30px ; 
+    margin-left:70px ; 
+    margin-right:70px;
+}
+
+body{
+
+    background-color: lemonchiffon;
+}
+
+.color-buttons{
+    text-decoration: none;
+    color: lightslategray;
+    font-family: 'Caveat', cursive;
+}
+
+.contenedor-botones{
+    margin-top: 40px;
+    margin-bottom: 60px;
+
+}
+
+.btn-primary{
+    border:none;
+    margin-right: 20px;
+    padding: 0px 16px;
+    height: 48px;
+    background: linear-gradient(154.49deg, rgba(121, 117, 131, 0.2) 5.35%, rgba(54, 53, 103, 0.2) 83.85%), rgba(49, 48, 54, 0.3);
+    box-shadow: 4px 8px 16px rgba(0, 27, 111, 0.2);
+    border-radius: 20px;
+    font-family: 'Caveat', cursive;
+}
+.active{
+    background: linear-gradient(330.53deg, #D40000 -15.77%, #F76343 28.41%, #FC6F6F 98.47%);
+}
+
+
+
+.border.img{
+    border-radius: 20px;
+
+}
+
+.logo-tam{
+    height: 100px;
+    width: 100px;
+}
+
+footer{
+
+    text-decoration: none;
+    margin-top: 30px ; 
+    margin-left:70px ; 
+    margin-right:70px;
+    font-family: 'Caveat', cursive;
+}
+
+.color-card-1{
+    font-family: 'Caveat', cursive;
+}
+
+.color-card-2{
+    font-family: 'Caveat', cursive;
+}
+
+.color-card-3{
+    font-family: 'Caveat', cursive;
+}
+
+.text-color{
+    color: black;
+    font-family: 'Caveat', cursive;
+}
